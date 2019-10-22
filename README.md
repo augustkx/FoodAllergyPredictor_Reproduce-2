@@ -20,4 +20,4 @@ Remove samples from subjects with less than 3 time points.
 
 ### 4. genera.py
 
-draw 215 genera features in diabimmune_karelia_metaphlan_table.txt.
+Draw 215 genera features in diabimmune_karelia_metaphlan_table.txt.
