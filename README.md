@@ -2,7 +2,7 @@
 The operations of each file:
 
 ### 1.data-meta.py:
-Road in DIABIMMUNE_Karelia_metadata.RData to Python pandas Dataframe. 
+Load in DIABIMMUNE_Karelia_metadata.RData to Python pandas Dataframe. 
 
 Remove all the samples without a food allergy class( egg or milk or peanuts).
 
