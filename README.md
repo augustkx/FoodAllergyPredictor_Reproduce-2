@@ -12,7 +12,7 @@ Add an "allergy" column, where it indicates "TRUE" if the sample comes from a su
 
 Load diabimmune_karelia_metaphlan_table.txt.
 
-Update OTU table file, only keeping those samples that are in both file.Because we deleted some samples with missing data in meta data.
+Update OTU table file, only keeping those samples that are in both files.Mainly because we deleted some samples with missing data in meta data.
 
 ### 3.data_processing.py
 
